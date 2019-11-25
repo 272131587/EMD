@@ -51,7 +51,7 @@
 %         _  |IMF(i,:).*IMF(j,:)|
 %   ORT = \ _____________________
 %         /
-%         �       || X ||�%        i~=j
+%                 || X || %        i~=j
 %
 % and the number of iterations to extract each mode in NB_ITERATIONS
 %
